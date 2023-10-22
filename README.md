@@ -19,3 +19,5 @@ print ("variabel a=",a)
 print ("variabel b=",b)
 
 print ("hasil penjumlahan a+b=",a+b)
+
+![Screenshot (87)](https://github.com/Reardhyan/LAB2PY./assets/148032571/b95468d3-8559-4ff5-acb3-98b0120a7b8a)
