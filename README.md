@@ -48,6 +48,5 @@ print("hasil penjumlahan {1}+{0}=%d" .format(a,b) % (a+b))
 
 print("hasil pembagian {1}/{0}=%d" .format(a,b) % (a/b))
 
-![Screenshot (88)](https://github.com/Reardhyan/LAB2PY./assets/148032571/5d157d7c-8edf-44d2-97b4-21f49a15b70e)
-
+![Screenshot (88)](https://github.com/Reardhyan/LAB2PY./assets/148032571/dfd176d6-2ca1-48ef-a265-209edc1abda0)
 
